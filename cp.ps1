@@ -29,4 +29,6 @@ Set-NetFirewallProfile -Profile Domain,Public,Private -Enabled True
 Enable-NetFirewallRule -DisplayGroup "Remote Desktop"
 #disable Remote Desktop
 
-
+C:\Users\USERNAME\Desktop\cp.bat
+#run password policy batch
+#######EDIT WITH FILE LOCATION##########
